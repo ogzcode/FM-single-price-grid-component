@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FM-single-price-grid-component/static/css/main.927c84fa.css",
+    "main.js": "/FM-single-price-grid-component/static/js/main.2baa1e4f.js",
+    "static/js/787.8f14b243.chunk.js": "/FM-single-price-grid-component/static/js/787.8f14b243.chunk.js",
+    "index.html": "/FM-single-price-grid-component/index.html",
+    "main.927c84fa.css.map": "/FM-single-price-grid-component/static/css/main.927c84fa.css.map",
+    "main.2baa1e4f.js.map": "/FM-single-price-grid-component/static/js/main.2baa1e4f.js.map",
+    "787.8f14b243.chunk.js.map": "/FM-single-price-grid-component/static/js/787.8f14b243.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.927c84fa.css",
+    "static/js/main.2baa1e4f.js"
+  ]
+}
